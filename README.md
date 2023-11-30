@@ -5,8 +5,8 @@ Please see the below resources for the Accessibility Forum taking place on Decem
 ## Downloads
 - [Meeting Agenda]()
 - [Slide Deck]()
-- [Acronym List]()
-- [IDEA Data Indicator Handout]()
+- [Acronym List](https://github.com/WeissCenter/Accessibility-Forum/blob/main/Acronym%20List.docx)
+- [IDEA Data Indicator Handout](https://github.com/WeissCenter/Accessibility-Forum/blob/main/IDEA%20Indicator%20Overview.docx)
 
 
 Please reach out to us with any questions at contact@WeissTA.org.
