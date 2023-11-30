@@ -3,8 +3,8 @@
 Please see the below resources for the Accessibility Forum taking place on December 5th, 2023.
 
 ## Downloads
-- [Meeting Agenda]()
-- [Slide Deck]()
+- [Meeting Agenda](https://github.com/WeissCenter/Accessibility-Forum/raw/main/Agenda%20-120523%20WC%20Accessibility%20Forum.docx)
+- [Slide Deck](https://github.com/WeissCenter/Accessibility-Forum/raw/main/120523%20WC%20Accessibility%20Forum.pdf)
 - [Acronym List](https://github.com/WeissCenter/Accessibility-Forum/raw/main/Acronym%20List.docx)
 - [IDEA Data Indicator Handout](https://github.com/WeissCenter/Accessibility-Forum/raw/main/IDEA%20Indicator%20Overview.docx)
 
