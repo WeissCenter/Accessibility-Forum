@@ -1,5 +1,5 @@
 ![Weiss Center Logo](https://github.com/WeissCenter/os3-resources/assets/138719250/63dbdc58-aff9-429a-864b-2e2c3b42fbfb)
-# Weiss Center Accessibility Forum
+# Weiss Center Accessibility Forum: Resources
 Please see the below resources for the Accessibility Forum taking place on December 5th, 2023.
 
 ## Downloads
